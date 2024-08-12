@@ -1,0 +1,3 @@
+In this project, my partner Tim Knothe and me developed a C program to adjust brightness and contrast in images, converting them to grayscale. We focused on leveraging SIMD instructions for optimization, resulting in significant performance improvements compared to non-SIMD versions. Our tests confirmed the effectiveness and correctness of the SIMD implementation, highlighting its efficiency in processing speed. 
+
+Project details in this PDF: [Ausarbeitung.pdf](./Ausarbeitung.pdf) (German)
